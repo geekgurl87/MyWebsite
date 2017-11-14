@@ -1,0 +1,1 @@
+puts #{Indeed, Ruby programming is cool}
